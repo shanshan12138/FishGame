@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  BackGround.cpp
+  Ball.cpp
+  Ball2.cpp
+  Bomb.cpp
+  Boss.cpp
+  Enemy.cpp
+  Explosion.cpp
+  GameObject.cpp
+  Jewel.cpp
+  MainFrm.cpp
+  MyPlane.cpp
+  PlaneGame.cpp
+  PlaneGameDoc.cpp
+  PlaneGameView.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+  正在生成代码
+  398 of 406 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    50 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PlaneGame.vcxproj -> D:\201601060517山珊\planegame（VS2017）\Release\PlaneGame.exe
+  PlaneGame.vcxproj -> D:\201601060517山珊\planegame（VS2017）\Release\PlaneGame.pdb (Full PDB)
